@@ -71,7 +71,7 @@ public class Main {
         if (q4.isCorreta(resposta)){
             cont++;
         }
-        //proxima questao
+        //proxima
 
 
         Questao q5 = new Questao();
