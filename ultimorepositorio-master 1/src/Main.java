@@ -22,7 +22,7 @@ public class Main {
 
 
         Questao q2 = new Questao();
-        q2.pergunta="1-quantos planetas existem no sistema solar?";
+        q2.pergunta="2-quantos planetas existem no sistema solar?";
         q2.opcaoA="a - 11";
         q2.opcaoB="b - 12";
         q2.opcaoC="c - 5";
@@ -40,7 +40,7 @@ public class Main {
 
 
         Questao q3 = new Questao();
-        q3.pergunta="1-quem descobriu o brasil?";
+        q3.pergunta="3-quem descobriu o brasil?";
         q3.opcaoA="a - pedro alvares cabral";
         q3.opcaoB="b - jair messias bolsonaro";
         q3.opcaoC="c - jucelino kubtchek";
@@ -58,7 +58,7 @@ public class Main {
 
 
         Questao q4 = new Questao();
-        q4.pergunta="1-quantas estrelas existem no universo observável?";
+        q4.pergunta="4-quantas estrelas existem no universo observável?";
         q4.opcaoA="a - 1 bilhao 600 milhoes 934 mil";
         q4.opcaoB="b - 23 milhoes e 500 mil ";
         q4.opcaoC="c - 27 elevado a setima pontencia ";
@@ -75,7 +75,7 @@ public class Main {
 
 
         Questao q5 = new Questao();
-        q5.pergunta="1-quando aconteceu o atentado de 11 de setembro  ?";
+        q5.pergunta="5-quando aconteceu o atentado de 11 de setembro  ?";
         q5.opcaoA="a - 14 de novembro";
         q5.opcaoB="b - 11 de janeiro ";
         q5.opcaoC="c - 32 de setembro  ";
@@ -91,7 +91,7 @@ public class Main {
 
 
         Questao q6 = new Questao();
-        q6.pergunta="1-qual orgao responsavel por bombear sangue ao nosso corpo  ?";
+        q6.pergunta="6-qual orgao responsavel por bombear sangue ao nosso corpo  ?";
         q6.opcaoA="a - rim";
         q6.opcaoB="b - olhos ";
         q6.opcaoC="c - estomago  ";
@@ -109,7 +109,7 @@ public class Main {
 
 
         Questao q7 = new Questao();
-        q7.pergunta="1- SUPONDO que há uma pena com a massa de 50 gramas caindo de uma altura de 10 metro a uma velocidade de 1 metro por e um papel com 25 gramas tambem caindo a mesma velocidade  e altura , qual deles cairia primeiro?";
+        q7.pergunta="7- SUPONDO que há uma pena com a massa de 50 gramas caindo de uma altura de 10 metro a uma velocidade de 1 metro por e um papel com 25 gramas tambem caindo a mesma velocidade  e altura , qual deles cairia primeiro?";
         q7.opcaoA="a - ambos cairam no mesmo tempo";
         q7.opcaoB="b - a pena caiu primeiro ";
         q7.opcaoC="c - o martelo caiu primeiro";
@@ -124,7 +124,7 @@ public class Main {
         }
         //proxima questao
         Questao q8 = new Questao();
-        q8.pergunta="1- qual nome do atual presidente?";
+        q8.pergunta="8- qual nome do atual presidente?";
         q8.opcaoA="a - cabo daciolo";
         q8.opcaoB="b -luiz inacio da silva";
         q8.opcaoC="c - tiririca";
@@ -139,7 +139,7 @@ public class Main {
         }
         //proxima questao
         Questao q9 = new Questao();
-        q9.pergunta="1- em que regiao vivemos ?";
+        q9.pergunta="9- em que regiao vivemos ?";
         q9.opcaoA="a -centro oeste ";
         q9.opcaoB="b -sul";
         q9.opcaoC="c - norte";
@@ -154,7 +154,7 @@ public class Main {
         }
         //proxima questao
         Questao q10= new Questao();
-        q10.pergunta="1- qual destes musicos é o criador da musica NOT LIKE US  ?";
+        q10.pergunta="10- qual destes musicos é o criador da musica NOT LIKE US  ?";
         q10.opcaoA="a -kendrik lamar  ";
         q10.opcaoB="b -eminem";
         q10.opcaoC="c - kanie west";
@@ -169,7 +169,7 @@ public class Main {
         }
         //proxima questao
         Questao q11= new Questao();
-        q11.pergunta="1- complete o ditado DEUS AJUDA QUEM   ?";
+        q11.pergunta="11- complete o ditado DEUS AJUDA QUEM   ?";
         q11.opcaoA="a -acorda tarde ";
         q11.opcaoB="b -cedo madruga";
         q11.opcaoC="c - quem vira a noite ";
@@ -184,7 +184,7 @@ public class Main {
         }
         //proxima questao
         Questao q12= new Questao();
-        q12.pergunta="1- se uma moeda com apenas duas faces forem jogadas ao alto com o numero 2 de um lado 1 do outro , qual a probabilidade de um dos 2 numeros cair   ?";
+        q12.pergunta="12- se uma moeda com apenas duas faces forem jogadas ao alto com o numero 2 de um lado 1 do outro , qual a probabilidade de um dos 2 numeros cair   ?";
         q12.opcaoA="a -56%";
         q12.opcaoB="b -77%";
         q12.opcaoC="c - 23 %";
@@ -199,7 +199,7 @@ public class Main {
         }
         //proxima questao
         Questao q13= new Questao();
-        q13.pergunta="1- quanto e 25% de 100  ?";
+        q13.pergunta="13- quanto e 25% de 100  ?";
         q13.opcaoA="a -56";
         q13.opcaoB="b -77";
         q13.opcaoC="c - 23 ";
@@ -214,7 +214,7 @@ public class Main {
         }
         //proxima questao
         Questao q14= new Questao();
-        q14.pergunta="1- qual nome do planeta nomeado como O PLANETA VERMELHO  ?";
+        q14.pergunta="14- qual nome do planeta nomeado como O PLANETA VERMELHO  ?";
         q14.opcaoA="a  plutao ";
         q14.opcaoB="b saturno";
         q14.opcaoC="c - sol";
@@ -229,7 +229,7 @@ public class Main {
         }
         //proxima questao
         Questao q15= new Questao();
-        q15.pergunta="1- h2o e a nomeclatura de qual elemento  ?";
+        q15.pergunta="15- h2o e a nomeclatura de qual elemento  ?";
         q15.opcaoA="a  agua ";
         q15.opcaoB="b gas carbonico";
         q15.opcaoC="c - titaniu";
