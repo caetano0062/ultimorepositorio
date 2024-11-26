@@ -247,6 +247,6 @@ public class Main {
 
         double porcetagem= ((double)cont / 15.0) * 100;
         System.out.println("voce acertou "+ String.format("%.2f", porcetagem )+"%");
-        System.out.println("voce acertou " +cont+ "de 15 questoes");
+        System.out.println("voce acertou " +cont+ "de 15 questoes!");
     }
 }
