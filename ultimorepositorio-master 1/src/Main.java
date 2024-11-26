@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int cont=0;
 
+
         Questao q1 = new Questao();
         q1.pergunta="1-quanto e 5 vezes 11 ?";
         q1.opcaoA="a - 17";
@@ -16,6 +17,7 @@ public class Main {
         if (q1.isCorreta(resposta)){
             cont++;
         }
+
 
 
 
@@ -244,7 +246,7 @@ public class Main {
         }
 
         double porcetagem= ((double)cont / 15.0) * 100;
-        System.out.println("voce acertou "+porcetagem+"%");
-        System.out.println("voce acertou" +cont+ "de 15 questoes");
+        System.out.println("voce acertou "+ String.format("%.2f", porcetagem )+"%");
+        System.out.println("voce acertou " +cont+ "de 15 questoes");
     }
 }
